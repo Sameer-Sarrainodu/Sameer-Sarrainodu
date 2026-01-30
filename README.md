@@ -1,4 +1,4 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+![MasterHead](https://raw.githubusercontent.com/Sameer-Sarrainodu/Sameer-Sarrainodu/main/mybanner.png)
 
 <h1 align="center">Hi 👋, I'm Sameer Shaik from India 🇮🇳</h1>
 
@@ -62,7 +62,6 @@ My focus is on **scalability, reliability, security, and automation** across the
 ### 📊 Observability & Monitoring
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
-<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
 </p>
 
 ### 🔐 Security & DevSecOps
