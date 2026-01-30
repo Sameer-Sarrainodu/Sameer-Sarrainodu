@@ -102,7 +102,8 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## 📊 GitHub Activity
 
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer-Sarrainodu&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Sarrainodu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 
 
 <p align="center">
