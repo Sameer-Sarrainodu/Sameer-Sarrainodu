@@ -102,7 +102,10 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## 📊 GitHub Activity
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Sarrainodu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathak-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
 
 
 
